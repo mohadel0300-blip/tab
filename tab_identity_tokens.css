@@ -1,0 +1,21 @@
+/* TAB Beauty - extracted from identity PDF */
+:root {
+  --tab-purple: #C09CEC;
+  --tab-orange: #FF9866;
+  --tab-yellow: #FFFF98;
+  --tab-pink: #FF98CB;
+  --tab-blue: #98CBFF;
+  --tab-green: #B2E49F;
+  --tab-white: #FFFFFF;
+  --tab-soft-gray: #F7F7F7;
+  --tab-text: #4A4A4A;
+}
+
+.tab-gradient {
+  background:
+    radial-gradient(circle at 10% 8%, rgba(255,152,102,.85), transparent 20%),
+    radial-gradient(circle at 88% 10%, rgba(255,255,152,.85), transparent 22%),
+    radial-gradient(circle at 12% 88%, rgba(178,228,159,.75), transparent 24%),
+    radial-gradient(circle at 88% 88%, rgba(152,203,255,.85), transparent 26%),
+    #fff;
+}
