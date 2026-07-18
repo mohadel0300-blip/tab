@@ -1,0 +1,16 @@
+TAB Beauty — النسخة النهائية
+
+تم تنفيذ:
+- استبدال صور أنواع الرموش الستة بالصور النهائية ذات الاتجاه للأسفل والخلفية البيضاء.
+- تحويل قسم اختيار لون النقش إلى اختيار نوع الرمش، مع ربط كل نوع بلون النقش الخاص به.
+- إظهار التقييمات والأسئلة الشائعة ونموذج البريد الإلكتروني وعدم حذفها.
+- تحسين تجربة الموبايل والقائمة الجانبية والأنيميشن والسلة العائمة.
+- إضافة إطار سفلي نحيف مفتوح من نقوش الهوية.
+- تنظيف المحتوى العام وإزالة العبارات الداخلية والوعود غير المؤكدة.
+
+
+UI FIXES — 14 July 2026
+- Removed the duplicated “اختيار نوع الرمش” shortcut card because the full selector is already visible on the page.
+- Separated the open and closed case images into two clear preview cards; they no longer overlap.
+- Changed the Morning Mist yellow add-to-cart button to the same outlined default style used by the other products; yellow fill now appears only on hover/focus.
+- Kept the original Mikhak font, all six lash images, reviews, FAQ and email sections unchanged.

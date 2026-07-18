@@ -1,0 +1,5 @@
+Mobile preview correction
+- Reduced top spacing in the linked lash section.
+- Kept lash and linked engraving side by side on phones.
+- Ensured the full case image uses contain and is never cropped.
+- Enlarged the lash within its frame without changing the Mikhak font.

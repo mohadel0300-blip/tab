@@ -1,0 +1,10 @@
+ربط صور الرموش المعتمد
+
+1. Iris Black → tab-lash-01-iris-black.png
+2. Frost Black → tab-lash-02-frost-black.png
+3. Bunny Black → tab-lash-03-bunny-black.png
+4. ICE Black → tab-lash-04-ice-black.png
+5. Natural → tab-lash-05-natural.png
+6. Morning Mist → tab-lash-06-morning-mist.png
+
+تم تحديث جميع مراجع الصور داخل ملفات HTML مع الإبقاء على خط Mikhak والمحتوى والتقييمات والأسئلة الشائعة والبريد الإلكتروني.
